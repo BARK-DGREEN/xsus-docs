@@ -5,7 +5,8 @@ nav_order: 2
 parent: Scripts
 ---
 
-```settings_with_errors = []
+```rb
+  settings_with_errors = []
   settings = MonthlyAddonSetting.where(month: [10], year: 2022)
   settings.each_with_index do |setting, index|
     puts "processing setting at index #{index}"

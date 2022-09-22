@@ -12,7 +12,8 @@ parent: Scripts
 
 ## Script
 
-```class AtbAutoAssignmentListImporter < CsvImporter
+```rb
+class AtbAutoAssignmentListImporter < CsvImporter
   def self.perform!(filepath) # "./data/2022-07/September Auto Assign  - Sheet1.csv"
     new(filepath).perform!
   end
