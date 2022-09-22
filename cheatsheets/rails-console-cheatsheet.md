@@ -7,7 +7,7 @@ parent: Cheatsheets
 
 # Rails Console Cheatsheet
 
-`cmd + k`  
+`cmd + k` 
 -   Clears the console.
 
 `reload!`  

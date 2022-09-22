@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Setting Up Amplitude For A/B Tests
+title: Testing With Amplitude, For A/B Tests
 nav_order: 2
+parent: Testing
 ---
 
 # Amplitude
