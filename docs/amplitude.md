@@ -2,10 +2,9 @@
 layout: default
 title: Testing With Amplitude, For A/B Tests
 nav_order: 2
-parent: Testing
 ---
 
-# Amplitude
+# [Amplitude](https://analytics.amplitude.com/login/)
 
 ## Setup Amplitude
 

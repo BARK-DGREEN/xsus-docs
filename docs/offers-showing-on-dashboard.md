@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Offers Showing On Dashboard
-nav_order: 2
+nav_order: 5
 ---
 
 Turn on flags:

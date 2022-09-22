@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Purchase Cart
-nav_order: 2
+nav_order: 5
 ---
 To purchase reserved carts individually, connect to the RA in console and run the following command (with the number in the parenthesis being the shopping cart ID which you can find at /admin/shopping_carts): 
 ```

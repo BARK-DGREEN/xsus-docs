@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Contentful
-nav_order: 10
+nav_order: 5
 ---
-# Contentful Overview
+# [Contentful](https://be.contentful.com/login)
 
 Contentful is a platform that allows Bark to easily build customizable content. It is a “headless CMS”, which means that the platform handles content creation and organization, while the client or server (in our case, the server) handles its rendering and presentation. 
 

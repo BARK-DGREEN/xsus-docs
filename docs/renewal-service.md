@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Renewal Service
-nav_order: 2
+nav_order: 5
 ---
 The renewal service looks for any users that have autoship items purchased and generates an add-on setting (if not already created) and an add-on offer of that SKU for the following month. 
 
