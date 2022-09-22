@@ -11,7 +11,9 @@ nav_order: 3
 
 # On Call RunBook 
 
-Please be looking in 
+Please be looking in these slack channels:
+
+-- # atb 
 
 ### Request: This subscription had an item mysteriously removed from their cart
 Possible steps to investigate: 
@@ -28,6 +30,7 @@ Possible steps to investigate:
 
 ### Request: Remove a line item from a sub
 Steps to solve:
+
 - Create a ticket detailing the request.
 - Go to the sub’s page in admin.
 - Click on the ‘Current Reserved ATB Cart’ in the side panel.

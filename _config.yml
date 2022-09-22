@@ -32,5 +32,3 @@ plugins:
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark

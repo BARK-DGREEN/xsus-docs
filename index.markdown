@@ -49,12 +49,12 @@ Here we’re setting up the Testing landing page that is available at /testing/,
 On child pages, simply set the parent: YAML front matter to whatever the parent’s page title is and set a nav order (this number is now scoped within the section).
 
 ***For example:*** 
----
+````
 layout: default
 title: Testing Amplitude
 parent: Testing
 nav_order: 2
----
+````
 
 The Testing Amplitude page appears as a child of Testing and appears second in the Testing section.
 

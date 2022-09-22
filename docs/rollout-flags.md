@@ -34,6 +34,8 @@ end
     - this gets the page data variable from step 3 and assigns it to a js variable
 4. If working with .erb files, be sure to add it as a local variable to partials. 
 
+[Reference commit from Jon on Eats v2 project from late 2021/early 2022](https://github.com/barkbox/barkbox-rails/pull/12270/commits/e982233e8855b5bde21d9ae57af7a6569fb95d59).
+
 ## Rollout Flag Related Commands 
 
 Turn flag on:
@@ -50,4 +52,4 @@ Turn flag off:
 
 
 
-[Reference commit from Jon on Eats v2 project from late 2021/early 2022](https://github.com/barkbox/barkbox-rails/pull/12270/commits/e982233e8855b5bde21d9ae57af7a6569fb95d59)
+
