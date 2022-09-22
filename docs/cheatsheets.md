@@ -7,8 +7,6 @@ has_children: true
 
 # Cheatsheets
 
-Data setup to make sub exempt from U-DD (Tailored, litebox and custom billing subs are all exempt from adding U-DD to ATB as of 3/26/20)
-
 ## To get a cart in a state where it has a sold out state 
 
 1. Log into admin from the RA.

@@ -5,8 +5,8 @@ nav_order: 3
 ---
 
 ## Quick Links
-- [ATB On-Call Calendar here](https://docs.google.com/spreadsheets/d/1nZurt7LJ3bP7kgx2xorzMmAvRQ5agztjqayMI1RVL6g/edit#gid=0)
-- [ATB On-Call Periscope Monitoring Dashboard here](https://app.periscopedata.com/app/barkbox/1005055/ATB-On-Call)
+- [ATB On-Call Calendar](https://docs.google.com/spreadsheets/d/1nZurt7LJ3bP7kgx2xorzMmAvRQ5agztjqayMI1RVL6g/edit#gid=0)
+- [ATB On-Call Periscope Monitoring Dashboard](https://app.periscopedata.com/app/barkbox/1005055/ATB-On-Call)
 - [ATB On-Call Sumo Logic Dashboard](https://www.google.com/url?q=https://bark.us2.sumologic.com/ui/%23/dashboardv2/YNKu1O5jIRIpEax6xBwN0iZYiWEFdsiOOXIRKofWmONfgBE8LHxk3HgdHVxW&sa=D&source=editors&ust=1663869586502244&usg=AOvVaw1ek6d8P_7LyY3HfDLqR8tT)
 
 # On Call RunBook 
