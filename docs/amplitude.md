@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amplitude
-nav_order: 2
+nav_order: 5
 ---
 
 # [Amplitude](https://analytics.amplitude.com/login/)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rails Files Locations for ATB
+title: Lingo And Abreviations
 nav_order: 3
 parent: What Is ATB?
 ---
