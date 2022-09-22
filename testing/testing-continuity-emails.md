@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Testing Continuity Emails
-nav_order: 2
+nav_order: 1
+parent: Testing
 ---
 
 We only trigger purchase or attempted purchase emails for first box orders. So continuity ATB carts should only get reservation confirmation/cancellation emails.

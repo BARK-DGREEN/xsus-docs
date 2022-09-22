@@ -4,7 +4,13 @@ title: Contributing to the Docs
 nav_order: 1
 ---
 
-To contribute to the glory that is Cross-Sell/Upsell/CRM Docs, simply clone [this repo]() to your local machine and follow these steps:
+To contribute to the glory that is Cross-Sell/Upsell/CRM Docs, simply clone [this repo](https://github.com/BARK-DGREEN/xsus-docs) to your local machine and follow these steps:
+
+## Quick Links
+
+- XSUS Docs Repo [here](https://github.com/BARK-DGREEN/xsus-docs).
+- Bark Eng Docs [here](https://docs.barkco.xyz/applications).
+- Bark UI Docs [here](https://www.barkbox.com/bark-ui/utilities/typography#adjust-body-text-weight).
 
 ## To Create New Documentation
 1. create a new markdown (`.md`) file in the `/docs` directory

@@ -2,6 +2,7 @@
 layout: default
 title: Testing First Emails
 nav_order: 2
+parent: Testing
 ---
 
 We don’t trigger reservation confirmation or cancellation emails for atb first box carts, but instead only send them a purchase confirmation or failure emails.

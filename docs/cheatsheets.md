@@ -1,8 +1,11 @@
 ---
 layout: default
-title: Useful Commands
+title: Cheatsheets
 nav_order: 1
+has_children: true
 ---
+
+# Cheatsheets
 
 Data setup to make sub exempt from U-DD (Tailored, litebox and custom billing subs are all exempt from adding U-DD to ATB as of 3/26/20)
 

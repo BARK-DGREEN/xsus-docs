@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Signed Links
-nav_order: 2
+nav_order: 4
+parent: Testing
 ---
 
 When a customer clicks on a product when viewing an ATB email, they’ll be able to view their ATB landing page or PDPs without having to log in. This is because we generate unique signed links for each customer to use. If you ever want to test signed links in a RA, run this in console:
