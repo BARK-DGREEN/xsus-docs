@@ -5,7 +5,7 @@ nav_order: 2
 parent: Scripts
 ---
 
-# Fix Broken Images For Local Featured Collections
+## Fix Broken Images For Local Featured Collections
 
 ```rb
   settings_with_errors = []

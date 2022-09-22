@@ -10,6 +10,8 @@ parent: Scripts
 ## CSV Schema
 - row = collection, sku, size
 
+
+
 - AtbAutoAssignmentListImporter.perform!("/Users/nickcocks/Documents/Barkbox-Rails/barkbox-rails/data/2022-08/Auto Assign Hard Coded Order - Auto Assign Importer File  (1).csv")
 
 ## Script

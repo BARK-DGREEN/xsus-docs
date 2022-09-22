@@ -11,7 +11,7 @@ has_children: true
 
 ***Note: RA’s should automatically have ATB data generated when they’re built but if for some reason it doesn’t, you can run this rake task to generate ATB data:***
 
-`gcp-cli review rake review_app:atb_setup -a barkbox-rails-review-PR_NUMBER`
+`gcp-cli review rake review_app:atb_setup -a barkbox-rails-review-XXXXX`
 
 ## Data Setup (Assigning ATB items to a user account)
 You need to create assignments so the user can see the addons from their dashboard view in the first place. How do dat? (***Note:*** *if you have ATB offers for your first month, you’ll need to enable the `first_box_atb` flag on the RA in order to see those on your dashboard*)

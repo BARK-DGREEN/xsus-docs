@@ -7,6 +7,8 @@ parent: Cheatsheets
 
 # Rails Console Cheatsheet
 
+## Commands
+
 `cmd + k` 
 -   Clears the console.
 

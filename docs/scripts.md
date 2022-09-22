@@ -7,4 +7,4 @@ has_children: true
 
 # Scripts
 
-While we try to have our workflows as automated as possible, there are occasionally times where we need to run scripts to fix or update local enviroments; I've put our most commonly used ones in this repo. 
+We try to have our workflows as automated as possible, but we occasionally need to run scripts for local environments;

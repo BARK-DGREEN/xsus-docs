@@ -7,9 +7,12 @@ nav_order: 5
 (slack `@Nick Cocks (he/him)` for any help w/ this)
 # [Contentful](https://be.contentful.com/login)
 
-Contentful is a platform that allows Bark to easily build customizable content. It is a “headless CMS”, which means that the platform handles content creation and organization, while the client or server (in our case, the server) handles its rendering and presentation. 
+Contentful is a platform that allows Bark to easily build customizable content. 
+It is a “headless CMS”, which means that the platform handles content creation and organization, while the client or server (in our case, the server) handles its rendering and presentation. 
 
-In Contentful, the content is organized into different layers of “Content Models”. These are the building blocks of a page or section of a page. Engineers are responsible for creating, maintaining, and then utilizing these Content Models in barkbox-rails, or any other application that wants to make use of the content.
+In Contentful, the content is organized into different layers of “Content Models”. 
+These are the building blocks of a page or section of a page. 
+Engineers are responsible for creating, maintaining, and then utilizing these Content Models in barkbox-rails, or any other application that wants to make use of the content.
 
 ## Platform
 
@@ -18,7 +21,7 @@ The primary “web app” for the platform, this is where Content Models and Pla
 Individual accounts must be provisioned from an admin [PROCESS TBD]
 - [Compose](https://compose.contentful.com):
 A more user-friendly content management application, this should especially be used when creating content for full-pages
-- Access
+- Access:
 You’ll need a CONTENTFUL_ACCESS_TOKEN, CONTENTFUL_SPACE_ID and a CONTENTFUL_PREVIEW_ACCESS_TOKEN in your .env file to get started. 
 
 ## Spaces
