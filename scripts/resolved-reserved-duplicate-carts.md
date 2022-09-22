@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Resolve Reserved Dupe Carts
+title: Resolve Reserved Duplicate Carts
 nav_order: 2
 parent: Scripts
 ---
+
+## Resolved Reserved Duplicate Carts
 
 ```rb
 def resolve_reserved_dupe_carts(array_of_cart_ids)

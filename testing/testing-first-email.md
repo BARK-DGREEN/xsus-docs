@@ -24,7 +24,7 @@ If you want to test a purchase success email:
 5. Make subs `created_at` date at least 30 minutes ago so the purchase rake task picks it up
 6. Run first box purchase rake task and expect to receive an success billing email
 
-````
+```rb
     sub = Subscription.find(XXX)
     month = 10
     year = 2021
@@ -34,11 +34,11 @@ If you want to test a purchase success email:
     ma.each do |addon|
       addon.update(expires_at: expiration, updated_at: Time.zone.now)
     end
-````
-````
+```
+```rb
     sub.created_at=30.minutes.ago
     sub.save!
-````
+```
 ````
     gcp-cli review rake add_to_box:purchase_reserved_carts_first_box -a barkbox-rails-review-XXXXX
 ````

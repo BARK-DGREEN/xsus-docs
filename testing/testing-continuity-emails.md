@@ -20,7 +20,7 @@ If you want to tests triggering a reservation success email:
 
 If you want to test triggering a reservation cancellation email, be sure to change the `customer_updated_at` value before you change the status of the cart to `canceled` because once it’s `canceled` the cart becomes `locked`, and you can’t make any more changes to it.
 
-````
+````rb
     cart = Shopping::Cart.find(XXX)
     cart.options[:customer_updated_at]=30.minutes.ago
     cart.options[:status]=”canceled”

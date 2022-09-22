@@ -4,7 +4,7 @@ title: Purchase Cart
 nav_order: 5
 ---
 To purchase reserved carts individually, connect to the RA in console and run the following command (with the number in the parenthesis being the shopping cart ID which you can find at /admin/shopping_carts): 
-```
+```rb
     service = PurchaseReservedCartService.new(<cart_id>)
     service.perform!
 ```
@@ -15,7 +15,9 @@ To purchase reserved carts individually, connect to the RA in console and run th
 
 - The items in the cart need to have inventory. If you visit the item page in admin, you should see the inventory counts in the panel to the left. To update the inventory you can run the following command:
 
-`InventoryCount.where(item_id: item.id).update(warehouse_qty: {"PBKY"=>{"count"=>10000, "counted_at"=>"2021-06-08 06:00:23"}, "OIASKY"=>{"count"=>10000, "counted_at"=>"2021-06-08 07:10:00"}}). If the count has an ‘available’ property of 0 or less, you can update it with InventoryCount.where(item_id: <item_id>).update(available: 100)`
+```rb
+InventoryCount.where(item_id: item.id).update(warehouse_qty: {"PBKY"=>{"count"=>10000, "counted_at"=>"2021-06-08 06:00:23"}, "OIASKY"=>{"count"=>10000, "counted_at"=>"2021-06-08 07:10:00"}}). If the count has an ‘available’ property of 0 or less, you can update it with InventoryCount.where(item_id: <item_id>).update(available: 100)
+```
 
 - If you encounter an error when you run the service, you should be able to run the service again after addressing the error/s, but you will first need to unlock the cart with `Shopping::Cart.find(<cart_id>).unlock!`
 

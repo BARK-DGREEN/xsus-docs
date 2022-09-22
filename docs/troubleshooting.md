@@ -5,5 +5,5 @@ nav_order: 5
 ---
 
 ## Item Displaying Out Of Stock
-- make sure MAS has sell to quanitity and price
-- make sure item has price
+- Make sure MAS has sell to quanitity and price.
+- Make sure item has price.

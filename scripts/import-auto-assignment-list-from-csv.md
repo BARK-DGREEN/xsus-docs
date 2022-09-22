@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Auto Assignment List Importer 
+title: Import Auto Assign Skus From CSV
 nav_order: 2
 parent: Scripts
 ---

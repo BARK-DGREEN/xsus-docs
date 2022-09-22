@@ -7,13 +7,11 @@ parent: Testing
 
 When a customer clicks on a product when viewing an ATB email, they’ll be able to view their ATB landing page or PDPs without having to log in. This is because we generate unique signed links for each customer to use. If you ever want to test signed links in a RA, run this in console:
 
-````
-gcp-cli review rails c -a barkbox-rails-review-XXXXX
-````
+`gcp-cli review rails c -a barkbox-rails-review-PR_NUMBER`
 
 Find the Sub Id and User number in Admin then add both ids to this script:
 
-````
+```rb
     sub = Subscription.find(XX)
     user = XXX 
     expires_at = (Time.zone.now + 1.month).change(day: 6, hour: 7).iso8601
@@ -23,7 +21,7 @@ Find the Sub Id and User number in Admin then add both ids to this script:
         controller: 'subscriptions',
         action: 'addon_new'
       )
-````
+```
 
 Once this script has run add this script to the console and run:
 

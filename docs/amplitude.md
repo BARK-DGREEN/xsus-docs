@@ -6,7 +6,7 @@ nav_order: 5
 
 # [Amplitude](https://analytics.amplitude.com/login/)
 
-## Setup Amplitude
+## Setup Amplitude For AB Testing
 
 1. Go to Govern in the [Amplitude Dashboard](https://analytics.amplitude.com/bark/workspace).
 2. Change environment to `barkbox dev`.
