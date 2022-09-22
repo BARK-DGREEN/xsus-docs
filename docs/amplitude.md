@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Testing With Amplitude, For A/B Tests
+title: Amplitude
 nav_order: 2
 ---
 
