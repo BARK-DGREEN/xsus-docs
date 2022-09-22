@@ -35,7 +35,7 @@ To purchase all reserved carts that are first box reservations, run:
 
 ***(Note: before attempting to purchase first box carts, the subs created_at date has to be at least 30 minutes old for it to get picked up by the rake task)***
 
-```
+```rb
     sub=Subscription.find(xx)
     sub.created_at=30.minutes.ago
     sub.save!

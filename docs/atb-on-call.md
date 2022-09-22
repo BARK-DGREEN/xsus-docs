@@ -11,7 +11,7 @@ nav_order: 3
 
 # On Call RunBook 
 
-## Request: This subscription had an item mysteriously removed from their cart
+### Request: This subscription had an item mysteriously removed from their cart
 Possible steps to investigate: 
 - Find the cart in the dash above by adding sub id to the filters and .
 - Look for the cart here: barkbox.com/admin/shopping_carts/cart_id.
@@ -23,8 +23,7 @@ Possible steps to investigate:
 - The search should return messages representing the sub in question’s activity on their ATB page during the time the line item was removed. 
 - Look for an entry where you can see the quantity of the sku in question changing to 0.
 
-
-## Request: Remove a line item from a sub
+### Request: Remove a line item from a sub
 Steps to solve:
 - Create a ticket detailing the request.
 - Go to the sub’s page in admin.

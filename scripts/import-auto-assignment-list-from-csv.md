@@ -5,6 +5,8 @@ nav_order: 2
 parent: Scripts
 ---
 
+(slack `@Nick Cocks (he/him)` for any help w/ this)
+
 ## CSV Schema
 - row = collection, sku, size
 
