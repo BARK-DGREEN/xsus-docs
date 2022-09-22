@@ -5,7 +5,7 @@ nav_order: 2
 parent: Scripts
 ---
 
-def resolve_reserved_dupe_carts(array_of_cart_ids)
+```def resolve_reserved_dupe_carts(array_of_cart_ids)
   array_of_cart_ids.each do |cart_id|
     cart = Shopping::Cart.find(cart_id)
 
@@ -59,3 +59,4 @@ array_of_cart_ids = [
   56056917,
   56071909
 ]
+```
