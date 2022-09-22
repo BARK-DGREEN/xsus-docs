@@ -2,6 +2,7 @@
 layout: default
 title: Customer View
 nav_order: 2
+parent: What Is ATB?
 ---
 A subscriber can add items to their ATB cart up until a specified date (displayed on their landing page). The date historically has changed, but as of November 2021, we will charge them on the 29th of the month and their addons expire at midnight, also on the 29th. When a customer adds items to their cart, it automatically reserves them. Reserved carts can be adjusted by the customer until we bill them.
 

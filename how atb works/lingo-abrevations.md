@@ -2,6 +2,7 @@
 layout: default
 title: Rails Files Locations for ATB
 nav_order: 3
+parent: What Is ATB?
 ---
 
 # Lingo And Abreviations 
