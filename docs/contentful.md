@@ -7,6 +7,13 @@ nav_order: 5
 (slack `@Nick Cocks (he/him)` for any help w/ this)
 # [Contentful](https://be.contentful.com/login)
 
+## Quick Links 
+
+- [Bark Content Model Breakdown](https://docs.google.com/document/d/1VHyda-Vyi3pksdRZtzXwwFy9Be3P7NvvBbQGZTO9LKA/edit)
+- [Contentful Docs](https://www.contentful.com/help/contentful-overview/)
+
+## Overview
+
 Contentful is a platform that allows Bark to easily build customizable content. 
 It is a “headless CMS”, which means that the platform handles content creation and organization, while the client or server (in our case, the server) handles its rendering and presentation. 
 

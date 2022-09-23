@@ -9,22 +9,22 @@ parent: Cheatsheets
 
 ## Commands
 
-`cmd + k` 
--   Clears the console.
+Clear the console.
+- `cmd + k` 
 
-`reload!`  
--   reloads code changes
+Reload code changes
+- `reload!`  
 
-`variable = _`  
--   Saves last executed thing in console and assigns it to [[variable]]
+Save last executed thing in console and assigns it to [[variable]]
+- `variable = _`  
 
-`ctrl + r`  
--   Reverse command search
+Reverse command search
+- `ctrl + r`  
+
+Load file into console
+- `load "file_path_starting_at_users_folder"`
 
 Some other good ones for getting more info about your queries were:
 `Benchmark.measure {|x| query }`  
 `query.to_sql  
 `query.explain`
-
-`load "file_path_starting_at_users_folder"`
--    Loads file into console
