@@ -13,7 +13,7 @@ nav_order: 3
 
 Please be looking in these slack channels:
 
--- # atb 
+-- [# atb](https://barkbox.slack.com/archives/CH89Z10E4)
 
 ### Request: This subscription had an item mysteriously removed from their cart
 Possible steps to investigate: 
