@@ -3,7 +3,8 @@ layout: default
 title: Purchase A Cart
 nav_order: 5
 ---
-To purchase reserved carts individually, connect to the RA in console and run the following command (you can find the shopping cart id at /admin/shopping_carts): 
+# Purhcase A Cart
+To purchase reserved carts individually, connect to the Review App in console and run the following command (you can find the shopping cart id at /admin/shopping_carts): 
 
 ```rb
     service = PurchaseReservedCartService.new(cart_id)
