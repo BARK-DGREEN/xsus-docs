@@ -3,7 +3,6 @@ layout: default
 title: Amplitude
 nav_order: 5
 ---
-
 # [Amplitude](https://analytics.amplitude.com/login/)
 
 ## Setup Amplitude For AB Testing

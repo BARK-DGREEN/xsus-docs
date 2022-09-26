@@ -3,9 +3,8 @@ layout: default
 title: Contentful
 nav_order: 5
 ---
-
-(slack `@Nick Cocks (he/him)` for any help w/ this)
 # [Contentful](https://be.contentful.com/login)
+(slack `@Nick Cocks (he/him)` for any help w/ this)
 
 ## Quick Links 
 

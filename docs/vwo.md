@@ -3,9 +3,8 @@ layout: default
 title: VWO
 nav_order: 5
 ---
-
-(slack `@Nick Cocks (he/him)` for any help w/ this)
 # [VWO](https://app.vwo.com/#/login)
+(slack `@Nick Cocks (he/him)` for any help w/ this)
 
 ## Troubleshooting
 ### If changes don't appear on a variation 

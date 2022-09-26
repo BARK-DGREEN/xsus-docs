@@ -4,7 +4,6 @@ title: Cheatsheets
 nav_order: 2
 has_children: true
 ---
-
 # Cheatsheets
 
 ## To get a cart in a state where it has a sold out state 
